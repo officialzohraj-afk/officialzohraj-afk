@@ -14,7 +14,7 @@ I enjoy building responsive websites, exploring new technologies, and turning cr
 - &#x20;Currently learning Full Stack Web Development
 - &#x20;Interested in Frontend Development
 - &#x20;Building projects using HTML, CSS & JavaScript
-- 📚 Always learning and improving my skills
+-  Always learning and improving my skills
 
 ---
 
