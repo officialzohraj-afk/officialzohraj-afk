@@ -1,58 +1,36 @@
-# Hi, I'm Zohraj Jabeen! 👋
+# Hi, I'm Zohraj Jabeen 👋
 
-### 💻 Computer Science Student | Aspiring Frontend Developer
+💻 **BS Computer Science Student | Aspiring Frontend Developer**
 
-Welcome to my GitHub profile! I'm a BS Computer Science student passionate about web development, technology, and continuous learning.
+### About Me
 
-I enjoy building responsive websites, exploring new technologies, and turning creative ideas into real-world projects.
-
----
-
- About Me
-
-- &#x20;BS Computer Science Student
-- &#x20;Currently learning Full Stack Web Development
+- &#x20;BS CS Student
+- &#x20;Learning Full Stack Web Development
 - &#x20;Interested in Frontend Development
-- &#x20;Building projects using HTML, CSS & JavaScript
--  Always learning and improving my skills
+- &#x20;Building responsive web projects
 
----
+### Skills
 
-### &#x20;Technical Skills
+HTML5 | CSS3 | JavaScript | C++ | Git | GitHub
 
-- **Languages:** HTML5, CSS3, JavaScript, C++
-- **Tools:** VS Code, Git, GitHub
-- **Currently Exploring:** React & Full Stack Development
+### Projects
 
----
+- 🍔 [FoodieGo Website](https://officialzohraj-afk.github.io/foodiego-website/)
+- 💻 [Personal Portfolio](https://officialzohraj-afk.github.io/Portfolio-Website-/)
 
-### &#x20;Featured Projects
+### Certifications
 
-**1. FoodieGo – Food Ordering Website**
+- IBM – Introduction to Artificial Intelligence
+- Meta – The Full Stack
+- Microsoft – Foundations of Coding Front-End
+- Google – AI Fundamentals
+- Google – Write Professional Emails in English
+- Meta – Introduction to Front-End Development
+- LearnQuest – Foundations of AI-Assisted Web Development
 
-A responsive food website built using HTML, CSS, and JavaScript.
+### Connect With Me
 
-🔗 [Live Demo](https://officialzohraj-afk.github.io/foodiego-website/)
+- GitHub: [@officialzohraj-afk](https://github.com/officialzohraj-afk)
+- Portfolio: [Visit Website](https://officialzohraj-afk.github.io/Portfolio-Website/)
 
-**2. Personal Portfolio Website**
-
-My personal portfolio showcasing my skills and development journey.
-
-🔗 [Live Demo](https://officialzohraj-afk.github.io/Portfolio-Website-/)
-
----
-
-### 🎓 Certifications & Licenses
-
-**1. Introduction to Artificial Intelligence (AI)**
-- Issued by: IBM
-- Issued: July 2026
-- [View Certificate](https://coursera.org/share/1a18eb885afd281c211e989227fa4856)
-
- GitHub Profile
-
-Thanks for visiting my profile!
-
-**Let's connect and grow together.**&#x20;
-
-
+✨ Always learning, building, and growing!
