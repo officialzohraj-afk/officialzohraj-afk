@@ -8,7 +8,7 @@ I enjoy building responsive websites, exploring new technologies, and turning cr
 
 ---
 
-### 👩‍💻 About Me
+ About Me
 
 - &#x20;BS Computer Science Student
 - &#x20;Currently learning Full Stack Web Development
@@ -42,7 +42,7 @@ My personal portfolio showcasing my skills and development journey.
 
 ---
 
-### 🎓 Certifications & Licenses
+ Certifications & Licenses
 
 - Introduction to Artificial Intelligence (IBM)
 - The Full Stack (Meta)
@@ -54,7 +54,7 @@ My personal portfolio showcasing my skills and development journey.
 
 ---
 
-### 📊 GitHub Profile
+ GitHub Profile
 
 Thanks for visiting my profile!
 
