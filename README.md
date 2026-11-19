@@ -1,7 +1,5 @@
 # Hi, I'm Zohraj Jabeen 👋
 
-💻 **BS Computer Science Student | Aspiring Frontend Developer**
-
 ### About Me
 
 - &#x20;BS CS Student
@@ -21,6 +19,9 @@ HTML5 | CSS3 | JavaScript | C++ | Git | GitHub
 ### Certifications
 
 - IBM – Introduction to Artificial Intelligence
+- - Issued by: IBM
+- Issued: July 2026
+- [View Certificate](https://coursera.org/share/1a18eb885afd281c211e989227fa4856)
 - Meta – The Full Stack
 - Microsoft – Foundations of Coding Front-End
 - Google – AI Fundamentals
