@@ -42,17 +42,12 @@ My personal portfolio showcasing my skills and development journey.
 
 ---
 
- Certifications & Licenses
+### 🎓 Certifications & Licenses
 
-- Introduction to Artificial Intelligence (IBM)
-- The Full Stack (Meta)
-- Foundations of Coding Front-End (Microsoft)
-- Introduction to Front-End Development (Meta)
-- AI Fundamentals (Google)
-- Write Professional Emails in English (Google)
-- Foundations of AI-Assisted Web Development (LearnQuest)
-
----
+**1. Introduction to Artificial Intelligence (AI)**
+- Issued by: IBM
+- Issued: July 2026
+- [View Certificate](https://coursera.org/share/1a18eb885afd281c211e989227fa4856)
 
  GitHub Profile
 
